@@ -1,2 +1,3 @@
-# Movie-Reccomendation
-Python based movie reccomendation program that uses numpy, pandas and scikit-learn. The dataset is imported from kaggle
+# Movie-Recommendation
+Python based movie recommendation program that uses numpy, pandas and scikit-learn. The dataset is imported from kaggle
+
